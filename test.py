@@ -1,0 +1,1 @@
+print("Hello GitHub! Tomorrow we start FastAPI.")
